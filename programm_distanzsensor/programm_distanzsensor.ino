@@ -13,4 +13,3 @@ void loop ()
 
   Serial.println(range);
   }
-  //Tinu di geili Sou
